@@ -5,7 +5,7 @@ For the lab session, log into [https://vsoc.napier.ac.uk/] using CyberStudent@vs
 
 
 
-![alt text](https://github.com/billbuchanan/cyber_data/blob/master/login.png "Logo Title Text 1")
+![alt text](https://github.com/billbuchanan/cyber_data/blob/master/graphics/login.png "Logo Title Text 1")
 
 <pre>
 Username: napier
